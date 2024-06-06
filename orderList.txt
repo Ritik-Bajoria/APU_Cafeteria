@@ -1,0 +1,4 @@
+Coffee; Rs.60;
+Veg Chowmein; Rs.100;
+MilkShake; Rs.100;
+Pizza; Rs.540;

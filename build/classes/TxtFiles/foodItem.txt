@@ -1,0 +1,12 @@
+Veg Mo:Mo; Rs.120; 15; 0
+Veg Chowmein; Rs.90; 15; 0
+Coffee;Rs.70; 12; 0
+Pasta; Rs.100; 10; 0
+Pizza; Rs.540; 15; 0
+MilkShake; Rs.100; 15; 0
+Sphaggeti; Rs.450; 15; 0
+Veg Sandwich; Rs.100; 15; 0
+Buff Mo:Mo; Rs.160; 15; 0
+Chicken Sandwich; Rs.140; 15; 0
+Ceasar Salad; Rs.350; 15; 0
+Soft Drinks; Rs.150; 15; 0

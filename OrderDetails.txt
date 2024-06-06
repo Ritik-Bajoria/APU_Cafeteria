@@ -1,0 +1,13 @@
+Ritik;Coffee; Rs.60;1;60.0
+Ritik;Pizza; Rs.540;1;540.0
+Ritik;Veg Mo:Mo; Rs.120;1;120.0
+Ritik;Veg Chowmein; Rs.100;1;100.0
+Ritik;Pasta; Rs.150;1;150.0
+Vidushi;Coffee; Rs.60;1;60.0
+Vidushi;Veg Chowmein; Rs.100;1;100.0
+Vidushi;Veg Mo:Mo; Rs.120;1;120.0
+Vidushi;MilkShake; Rs.100;1;100.0
+Ritik;Coffee; Rs.60;1;60.0
+Ritik;Veg Chowmein; Rs.100;1;100.0
+Ritik;MilkShake; Rs.100;1;100.0
+Ritik;Pizza; Rs.540;1;540.0

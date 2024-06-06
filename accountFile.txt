@@ -1,0 +1,3 @@
+Ritik;9892282923;rb@mail.com;ratopul;pass
+Vidushi;9802393465;vrs@mail.com;ratopul;pass123
+Ritik;9803420302;rb@gmail.com;ratopul;pass
